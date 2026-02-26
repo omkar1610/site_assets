@@ -1,0 +1,11 @@
+{
+    1: { en: 'Public Address at Community Gathering',    or: 'ସାମୁଦାୟିକ ସଭାରେ ଭାଷଣ' },
+    2: { en: 'Interaction with Youth Sports Teams',      or: 'ଯୁବ କ୍ରୀଡ଼ା ଦଳ ସହ ଆଲୋଚନା' },
+    3: { en: 'Visit to Educational Institution',         or: 'ଶିକ୍ଷା ସଂସ୍ଥା ସନ୍ଦର୍ଶନ' },
+    4: { en: 'Cultural Program Participation',           or: 'ସାଂସ୍କୃତିକ କାର୍ଯ୍ୟକ୍ରମରେ ଅଂଶଗ୍ରହଣ' },
+    5: { en: 'Sports Infrastructure Inauguration',       or: 'କ୍ରୀଡ଼ା ପ୍ରାଣାଳୀ ଉଦ୍ଘାଟନ' },
+    6: { en: 'Review Meeting with Officials',            or: 'ଅଧିକାରୀମାନଙ୍କ ସହ ସମୀକ୍ଷା ବୈଠକ' },
+    7: { en: 'Constituency Development Inspection',      or: 'ନିର୍ବାଚନ ମଣ୍ଡଳୀ ଉନ୍ନୟନ କାର୍ଯ୍ୟ ପରିଦର୍ଶନ' },
+    8: { en: 'Interaction with Students',                or: 'ଛାତ୍ରଛାତ୍ରୀଙ୍କ ସହ ଆଲୋଚନା' },
+    9: { en: 'Cabinet Oath Ceremony',                    or: 'ମନ୍ତ୍ରିମଣ୍ଡଳ ଶପଥ ଗ୍ରହଣ ଅନୁଷ୍ଠାନ' },
+}
